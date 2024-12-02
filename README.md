@@ -37,7 +37,7 @@ The previews are available in various formats, including:
 | Project Name   | Description                        | Technologies |
 |----------------|------------------------------------|--------------|
 | Alloc8 | This is the project I, together with another student, worked on during my internship. It's a seat allocation app where users can reserve a desk in the office, this can be done by an individual user or by a team. | `Java` `React.js` |
-| Agritech | This was a school project in which 6 students from different specializations (Application Development, Artificial Intelligence and Cloud & Cyber Security) had to work together for an actual client. We had to create an application in which drone images were analysed by AI to detect weeds, this way farmers could easily figure out where they should or shouldn't grow crops. | `Java` `Angular` |
+| Project 4.0 | This was a school project in which 6 students from different specializations (Application Development, Artificial Intelligence and Cloud & Cyber Security) had to work together for an actual client. We had to create an application in which drone images were analysed by AI to detect weeds, this way farmers could easily figure out where they should or shouldn't grow crops. | `Java` `Angular` |
 | ...            | ...                                |
 
 *More projects coming soon!*
