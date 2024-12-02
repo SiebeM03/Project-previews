@@ -22,7 +22,7 @@ This repository serves as a visual showcase of my coding projects. Each folder c
 2. Navigate to the folder of a project you're interested in.
 3. Open the media files to get a visual glimpse of the project.
 
-Feel free to check out the [source code](#) of each project (links provided in their respective README files, where applicable).
+Feel free to check out the source code of each project (links provided in their respective README files, where applicable).
 
 ## Preview Formats
 
