@@ -1,7 +1,7 @@
 Below is some extra explanation for all the features implemented in the project.
 
 1. **Login and sign up screen**  
-   ![Login screen](Alloc8/1_login.gif)  
+   ![Login screen](./1_login.gif)  
    This is the first page the user will see, here they can login using an existing account or create a new one. There is also validation on each input field (e.g. required, value length, format checks for email and password).
    Once the user is logged in they get a JWT token that is automatically stored so that the browser remembers the user.
 
